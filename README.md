@@ -1,2 +1,3 @@
-# spring5-recipe-app
+# Spring Boot Recipe Application
+
 Spring Boot Recipe Application
