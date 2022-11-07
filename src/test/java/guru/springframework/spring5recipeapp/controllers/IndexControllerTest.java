@@ -29,7 +29,6 @@ class IndexControllerTest {
 
     @Mock
     Model model;
-
     IndexController controller;
 
     @BeforeEach
